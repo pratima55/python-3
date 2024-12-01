@@ -1,0 +1,7 @@
+# types of operator:
+# 1. Arithematic operator +, -, *, /, //, %, **
+# 2. Logical operator and, or, not
+# 3. comparison operator ==, !=, >, <, >=, <=
+# 4. Assignment operator =, +=, -=, /=, //=,...
+# 5. Bitwise operator   
+
