@@ -13,3 +13,6 @@ print(type(float_age))
 
 # syntax
 class_name(value)
+salary = 50000.59
+converted = int(salary)
+print(type(converted))
