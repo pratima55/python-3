@@ -10,3 +10,6 @@ print(type(int_age))
 age = 23
 float_age = float(age)
 print(type(float_age))
+
+# syntax
+class_name(value)
