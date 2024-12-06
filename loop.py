@@ -25,26 +25,66 @@
 #     i = i+1    
 
 
-WAP to find prime number 
-num = 12
+# WAP to find prime number 
+# num = 12
+# start = 1
+# count = 0 
+# while start <= num:
+#     if num % start == 0:
+#         count = count + 1
+#     start = start + 1
+
+# if count== 2:
+#     print(f"{num} is prime number")
+
+
+# else:
+#     print(f"{num} is composite number")            
+
+
+
+# wap to print prime number upto 50
+
+
+# num = 88
+# start = 1
+# count= 0
+
+# while start <= num :
+#     if num % start == 0:
+#         count = count + 1
+#     start = start + 1  
+
+# if count<= 2:
+#     print(f"{num} is prime number")
+
+
+# else:
+#     print(f"{num} is composite number") 
+
+
+##############################################################
+
+
+
+
+
+###WAP TO check number is prime or composite upto 50
+num = 1
 start = 1
 count = 0 
-while start <= num:
-    if num % start == 0:
-        count = count + 1
-    start = start + 1
 
-if count<= 2:
-    print(f"{num} is prime number")
-
-
-else:
-    print(f"{num} is composite number")            
-
-
-
-
-
-
-
+while num<=50:
+    while start <= num:
+        if num % start == 0:
+            count = count + 1
+        start = start + 1
     
+    if count == 2:
+        print(f"{num} is a prime number")
+    else:
+        print(f"{num} is a composite number")
+    
+    num= num + 1
+    start= 1
+    count = 0          
