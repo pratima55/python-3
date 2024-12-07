@@ -1,4 +1,6 @@
-secret_num = 67
+import random
+secret_num = random.randint(1,100)
+
 count = 1
 
 while count<=5 :
@@ -18,3 +20,17 @@ while count<=5 :
 
 else:
     print('Attempt finished')                  
+
+
+
+#######################################
+#wap to check number is positive, negative or zero
+
+
+num = int(input("enter number"))
+if num <0:
+    print("negative")
+elif num >0:
+    print("positive")
+else :
+    print("zero")        
