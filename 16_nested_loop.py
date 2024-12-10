@@ -41,6 +41,11 @@
 ##############################
 
 for i in "abcd":
+    print(i)
     for j in "abcd":
         print(i,j)
+        for k in "abcd":
+            print(i,j,k)
+            for l in "abcd":
+                print(i,j,k,l)
         
