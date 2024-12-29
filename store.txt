@@ -1,0 +1,7 @@
+
+
+id: 2, name: acer
+id: 3, name: lenovo, price: 12500, core: i5
+id: 4, name: dell, price: 12533, core: i5
+id: 5, name: dell, price: 12533, core: i5
+id: 6, name: dell vostro, price: 100111, core: i7

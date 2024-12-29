@@ -1,2 +1,10 @@
 
 dell i5,dell,4500,8
+dell i5,dell,4500,8
+dell i5,dell,4500,8
+dell i5,acer,4500,8
+1,lenovo,loq series,123456,i7,5
+ ID :  12, Name : apple, Brand :apple5,Price: 123467 , Generation:  i5,Core: 5
+ ID :  1, Name : lenovo, Brand :log series,Price: 123560 , Generation:  i7,Core: 5
+ ID :  2, Name : lenovo, Brand :loq series,Price: 110000 , Generation:  i7,Core: 3
+ ID :  3, Name : lenovo, Brand :loq series,Price: 120222 , Generation:  i7,Core: 4
